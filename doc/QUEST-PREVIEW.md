@@ -6,7 +6,11 @@ Stable site: https://myathemagick-netizen.github.io/RiVViT/
 
 The preview is deployed independently from the modernization branch to the `RiVViT-preview` repository's `main` branch. It does not deploy the stable repository's `main` branch. The header displays a preview build identifier; check it after reloading to confirm the version under test.
 
-## Current build 2026-10-13.4
+## Validated build 2026-10-13.4
+
+Upcoming preview **2026-10-13.5**: enable **Sirius timeline** under TIME / Events. It opens the wave panel and adds a lavender A/B separation strip, approximate distance/coordinates, and a distance/speed scenario. Check epoch/date updates, toggle off/on, enlarged panel readability, grab/reset, and scrubbing. The Sirius curve has its own AU scale. Quest and phone checks for this build are pending; 2026-10-13.4 remains the validated stable build.
+
+The user confirmed the complete build works on web and Quest on 2026-10-13 and authorized stable release. This checklist remains available for regression testing and future previews.
 
 New: Novelty Wave has a cyan Saturn opening curve (−30° to +30°, north positive) beside the gold/violet MMS curve (−1 to +1). Next/previous epoch shows the selected year’s sampled angle range. Check curve/legend readability and scrubbing; on web, expand Epoch / Saturn comparison for the full table.
 
